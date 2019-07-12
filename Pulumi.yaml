@@ -1,0 +1,5 @@
+name: pulumi-dejavu
+runtime: nodejs
+description: |-
+  A simple Typescript-based Kubernetes Deployment, complete with
+  dynamically-configured Service and Ingress.
